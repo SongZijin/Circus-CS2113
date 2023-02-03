@@ -2,6 +2,9 @@ I'm a Duck
 Quack Quack
 I'm a parrot
 Polly wants a cracker
+Adding item value: 10
+Adding item value: 20
+Total value of animals 30
 Adding item value: 25
 Ignoring low value item: 1
 Adding item value: 33
