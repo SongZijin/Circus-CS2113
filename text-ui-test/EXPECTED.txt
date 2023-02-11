@@ -1,10 +1,13 @@
-I'm a Duck
-Quack Quack
-I'm a parrot
+I'm Drake. I am a Duck!
+I'm Drake. I am a Duck!  Quack Quack
+My name is Polly. I am a Parrot!
 Polly wants a cracker
+My name is Tai Lung. I am a majestic Tiger!
+My name is Tai Lung. I am a majestic Tiger!. I don't speak; I ROARRR!!!!
 Adding item value: 10
 Adding item value: 20
-Total value of animals 30
+Adding item value: 100
+Total value of animals 130
 Adding item value: 25
 Ignoring low value item: 1
 Adding item value: 33
