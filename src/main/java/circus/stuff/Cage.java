@@ -2,6 +2,7 @@ package circus.stuff;
 
 public class Cage<T> {
     private T t;
+    //Type T could be anything
 
     public void lockUp(T t) {
         this.t = t;

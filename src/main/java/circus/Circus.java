@@ -92,12 +92,14 @@ public class Circus {
         //things below are new, thus we may want to keep it
         Cage<Duck> duckCage = new Cage<>();
         Duck duck = new Duck("Akshay");
+        //if you attempt to lick a parrot in duckCage, you will get an error
         duckCage.lockUp(duck);
         Parrot parrot = new Parrot("Akshay too");
         Cage<Parrot> parrotCage = new Cage<>();
         parrotCage.lockUp(parrot);
 
         ArrayList<Cage> cages = new ArrayList<>();
+        //ArrayList is a generic, using Cage as the parameter
         cages.add(duckCage);
         cages.add(parrotCage);
 
